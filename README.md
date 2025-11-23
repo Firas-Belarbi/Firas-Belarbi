@@ -35,7 +35,13 @@
 - **CompTIA Tech+ (ITF+)** – Udemy  
 - **Ethical Hacking From Scratch** – Udemy  
 - **LPI Linux Essentials (010-160)** – Udemy  
-- **Google Cybersecurity (Ongoing)** – Coursera  
+- **Google Cybersecurity (Ongoing)** – Coursera
+  
+---
+
+## 🧠 TryHackMe
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/belarbi.firas.png)](https://tryhackme.com/p/belarbi.firas)
 
 ---
 
