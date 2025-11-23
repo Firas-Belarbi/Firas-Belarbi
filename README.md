@@ -51,5 +51,33 @@
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/belarbi-firas-381aa9394/  
+- **LinkedIn:** https://www.linkedin.com/in/belarbi-firas-381aa9394/
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firas-Belarbi&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firas-Belarbi&theme=radical" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-Belarbi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firas-Belarbi&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+
+
+
+
+
+
+
 - **GitHub:** https://github.com/Firas-Belarbi
