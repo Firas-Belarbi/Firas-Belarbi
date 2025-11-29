@@ -14,10 +14,27 @@
 
 ---
 
+
 ## 📂 My Main Repositories
-- 🔐 **Cybersecurity-Notes** – Notes, recon methods, vulnerabilities, tools  
-- 🐧 **Linux-Labs** – Commands, scripts, Linux essentials  
-- 🌐 **Networking-Basics** – TCP/IP, OSI Model, Wireshark, Nmap  
+
+
+- 🔐 **Cybersecurity-Notes**  
+  Foundational security notes, recon techniques, vulnerabilities, detection methods, and blue/red team fundamentals.
+
+- 🐧 **Linux-Labs**  
+  Linux commands, Bash scripting, privilege escalation basics, and system management practice.
+
+- 🌐 **Networking-Basics**  
+  TCP/IP, OSI Model, routing, packet analysis, Wireshark labs, and core networking concepts.
+
+- 🔢 **Cryptography-Basics**  
+  Symmetric/asymmetric encryption, hashing, classical ciphers, XOR, modular arithmetic, and applied cryptography principles.
+
+- 🧪 **Practical-Vulnerability-Research**  
+  Hands-on analysis of real-world vulnerabilities, exploitation attempts, protocol breakdowns, and attack surface exploration.
+
+- 🚀 **TryHackMe-Progress**  
+  Daily practical cybersecurity development — room summaries, hands-on labs, exploitation exercises, and continuous progression.
 
 ---
 
