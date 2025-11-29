@@ -101,3 +101,40 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firas-Belarbi&theme=react-dark" alt="Activity Graph"/>
 </p>
+
+
+
+
+<!-- Languages Card -->
+<div align="center">
+  <table width="600px" style="background-color:#0d1117; border-radius:12px; padding:20px;">
+    <tr><td align="center">
+      <h2 style="color:#f5f5f5;">Language Proficiency</h2>
+    </td></tr>
+    <tr><td align="center">
+      <table width="90%" style="color:#f5f5f5; font-size:16px;">
+        
+        <tr>
+          <td align="left"><strong>Arabic</strong></td>
+          <td align="right">Native</td>
+        </tr>
+        
+        <tr>
+          <td align="left"><strong>English</strong></td>
+          <td align="right">B2</td>
+        </tr>
+        
+        <tr>
+          <td align="left"><strong>Turkish</strong></td>
+          <td align="right">A2 (Learning)</td>
+        </tr>
+        
+        <tr>
+          <td align="left"><strong>French</strong></td>
+          <td align="right">A2</td>
+        </tr>
+        
+      </table>
+    </td></tr>
+  </table>
+</div>
