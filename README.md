@@ -73,16 +73,7 @@
 
 ---
 
-## 🌍 Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge" alt="Arabic Native" />
-  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" alt="English B2" />
-  <img src="https://img.shields.io/badge/Turkish-A2-orange?style=for-the-badge" alt="Turkish A2" />
-  <img src="https://img.shields.io/badge/French-A2-yellow?style=for-the-badge" alt="French A2" />
-</p>
-
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -104,37 +95,3 @@
 
 
 
-
-<!-- Languages Card -->
-<div align="center">
-  <table width="600px" style="background-color:#0d1117; border-radius:12px; padding:20px;">
-    <tr><td align="center">
-      <h2 style="color:#f5f5f5;">Language Proficiency</h2>
-    </td></tr>
-    <tr><td align="center">
-      <table width="90%" style="color:#f5f5f5; font-size:16px;">
-        
-        <tr>
-          <td align="left"><strong>Arabic</strong></td>
-          <td align="right">Native</td>
-        </tr>
-        
-        <tr>
-          <td align="left"><strong>English</strong></td>
-          <td align="right">B2</td>
-        </tr>
-        
-        <tr>
-          <td align="left"><strong>Turkish</strong></td>
-          <td align="right">A2 (Learning)</td>
-        </tr>
-        
-        <tr>
-          <td align="left"><strong>French</strong></td>
-          <td align="right">A2</td>
-        </tr>
-        
-      </table>
-    </td></tr>
-  </table>
-</div>
