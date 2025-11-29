@@ -69,6 +69,18 @@
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/belarbi-firas-381aa9394/
+- **GitHub:** https://github.com/Firas-Belarbi  
+
+---
+
+## 🌍 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge" alt="Arabic Native" />
+  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge" alt="English B2" />
+  <img src="https://img.shields.io/badge/Turkish-A2-orange?style=for-the-badge" alt="Turkish A2" />
+  <img src="https://img.shields.io/badge/French-A2-yellow?style=for-the-badge" alt="French A2" />
+</p>
 
 ---
 
@@ -89,12 +101,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firas-Belarbi&theme=react-dark" alt="Activity Graph"/>
 </p>
-
-
-
-
-
-
-
-
-- **GitHub:** https://github.com/Firas-Belarbi
